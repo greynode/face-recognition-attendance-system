@@ -1,1 +1,1 @@
-web: gunicorn app:charu.py
+web:gunicorn app:charu.py
